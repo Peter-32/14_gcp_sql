@@ -1,5 +1,4 @@
-# I removed this file from the .gitignore
-    # So I can use it for educative purposes and as a reference
+# I include this file in Git so I can use it for educative purposes and as a reference
 
 password = 'a'
 
