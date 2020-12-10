@@ -1,3 +1,6 @@
+# I removed this file from the .gitignore
+    # So I can use it for educative purposes and as a reference
+
 password = 'a'
 
 connection_config = {
